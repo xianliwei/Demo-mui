@@ -1,0 +1,5 @@
+.mui-scroll-wrapper {
+  width: 100%;
+  overflow: hidden;
+  overflow-y: scroll;
+}
